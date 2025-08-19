@@ -5,7 +5,7 @@
       "title": "Beginner Fat Loss Plan",
       "description": "A simple fat loss diet plan with light exercises and balanced meals.",
       "exercise": [
-        { "id": "1", "excercise_model": "Push Ups", "numberoftime_to_do": 20 },
+        { "id": "1", "excercise_model": "Push Ups", "numberoftime_to_do": 21 },
         { "id": "2", "excercise_model": "Jumping Jacks", "numberoftime_to_do": 30 }
       ],
       "price": 19.99,
