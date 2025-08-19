@@ -1,0 +1,142 @@
+[
+  {
+    "data": [
+      {
+        "id": "1",
+        "title": "Beginner Fat Loss Plan",
+        "description": "A simple fat loss diet plan with light exercises and balanced meals.",
+        "exercise": [
+          { "id": "1", "excercise_model": "Push Ups", "numberoftime_to_do": 20 },
+          { "id": "2", "excercise_model": "Jumping Jacks", "numberoftime_to_do": 30 }
+        ],
+        "price": 19.99,
+        "total_day": 30,
+        "foods": [
+          { "id": "1", "food_time": "Breakfast", "calories": 250, "protien": 15 },
+          { "id": "2", "food_time": "Lunch", "calories": 500, "protien": 30 }
+        ],
+        "water_cycle": [
+          { "id": "1", "water_liter": 0.5, "time": "8:00 AM" },
+          { "id": "2", "water_liter": 0.5, "time": "12:00 PM" }
+        ],
+        "rating": 4.5,
+        "total_steps": 8000,
+        "caloires_burn": 350,
+        "author_name": "John Smith"
+      }
+    ],
+    "next_page_link": "https://api.example.com/diet-plans?page=2"
+  },
+  {
+    "data": [
+      {
+        "id": "2",
+        "title": "Muscle Gain Program",
+        "description": "High protein diet plan with strength training exercises.",
+        "exercise": [
+          { "id": "1", "excercise_model": "Bench Press", "numberoftime_to_do": 12 },
+          { "id": "2", "excercise_model": "Squats", "numberoftime_to_do": 15 }
+        ],
+        "price": 29.99,
+        "total_day": 45,
+        "foods": [
+          { "id": "1", "food_time": "Breakfast", "calories": 400, "protien": 25 },
+          { "id": "2", "food_time": "Dinner", "calories": 600, "protien": 40 }
+        ],
+        "water_cycle": [
+          { "id": "1", "water_liter": 1.0, "time": "9:00 AM" },
+          { "id": "2", "water_liter": 1.0, "time": "3:00 PM" }
+        ],
+        "rating": 4.8,
+        "total_steps": 10000,
+        "caloires_burn": 500,
+        "author_name": "Emily Johnson"
+      }
+    ],
+    "next_page_link": "https://api.example.com/diet-plans?page=3"
+  },
+  {
+    "data": [
+      {
+        "id": "3",
+        "title": "Keto Slim Plan",
+        "description": "Low carb, high fat diet with moderate workouts for fat loss.",
+        "exercise": [
+          { "id": "1", "excercise_model": "Plank", "numberoftime_to_do": 3 },
+          { "id": "2", "excercise_model": "Burpees", "numberoftime_to_do": 15 }
+        ],
+        "price": 24.99,
+        "total_day": 21,
+        "foods": [
+          { "id": "1", "food_time": "Breakfast", "calories": 300, "protien": 20 },
+          { "id": "2", "food_time": "Lunch", "calories": 450, "protien": 25 }
+        ],
+        "water_cycle": [
+          { "id": "1", "water_liter": 0.7, "time": "10:00 AM" },
+          { "id": "2", "water_liter": 0.7, "time": "5:00 PM" }
+        ],
+        "rating": 4.3,
+        "total_steps": 7000,
+        "caloires_burn": 300,
+        "author_name": "Michael Lee"
+      }
+    ],
+    "next_page_link": "https://api.example.com/diet-plans?page=4"
+  },
+  {
+    "data": [
+      {
+        "id": "4",
+        "title": "Athlete Endurance Plan",
+        "description": "Diet and workout routine designed for runners and endurance athletes.",
+        "exercise": [
+          { "id": "1", "excercise_model": "Running", "numberoftime_to_do": 5 },
+          { "id": "2", "excercise_model": "Cycling", "numberoftime_to_do": 10 }
+        ],
+        "price": 39.99,
+        "total_day": 60,
+        "foods": [
+          { "id": "1", "food_time": "Snack", "calories": 200, "protien": 10 },
+          { "id": "2", "food_time": "Dinner", "calories": 650, "protien": 35 }
+        ],
+        "water_cycle": [
+          { "id": "1", "water_liter": 1.2, "time": "7:00 AM" },
+          { "id": "2", "water_liter": 1.2, "time": "2:00 PM" }
+        ],
+        "rating": 4.9,
+        "total_steps": 15000,
+        "caloires_burn": 800,
+        "author_name": "Sarah Brown"
+      }
+    ],
+    "next_page_link": "https://api.example.com/diet-plans?page=5"
+  },
+  {
+    "data": [
+      {
+        "id": "5",
+        "title": "Balanced Lifestyle Plan",
+        "description": "A balanced mix of nutrition and light exercise for everyday health.",
+        "exercise": [
+          { "id": "1", "excercise_model": "Yoga", "numberoftime_to_do": 20 },
+          { "id": "2", "excercise_model": "Walking", "numberoftime_to_do": 30 }
+        ],
+        "price": 14.99,
+        "total_day": 15,
+        "foods": [
+          { "id": "1", "food_time": "Breakfast", "calories": 200, "protien": 10 },
+          { "id": "2", "food_time": "Lunch", "calories": 400, "protien": 20 }
+        ],
+        "water_cycle": [
+          { "id": "1", "water_liter": 0.5, "time": "9:00 AM" },
+          { "id": "2", "water_liter": 0.5, "time": "6:00 PM" }
+        ],
+        "rating": 4.1,
+        "total_steps": 6000,
+        "caloires_burn": 200,
+        "author_name": "David Wilson"
+      }
+    ],
+    "next_page_link": ""
+  }
+]
