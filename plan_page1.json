@@ -3,7 +3,7 @@
     "data": [
       {
         "id": "1",
-        "title": "Beginner Fat Loss Plan",
+        "title": "Beginner Fat Loss Plan ",
         "description": "A simple fat loss diet plan with light exercises and balanced meals.",
         "exercise": [
           { "id": "1", "excercise_model": "Push Ups", "numberoftime_to_do": 20 },
@@ -31,7 +31,7 @@
     "data": [
       {
         "id": "2",
-        "title": "Muscle Gain Program",
+        "title": "Muscle Gain Program ",
         "description": "High protein diet plan with strength training exercises.",
         "exercise": [
           { "id": "1", "excercise_model": "Bench Press", "numberoftime_to_do": 12 },
