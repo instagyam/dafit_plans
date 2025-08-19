@@ -5,34 +5,42 @@
       "title": "Beginner Fat Loss Plan",
       "description": "A simple fat loss diet plan with light exercises and balanced meals.",
       "exercise": [
-        { "id": "1", "excercise_model":    {
-      "id": "1",
-      "name": "Push Ups",
-      "instruction": [
-        { "id": "1", "description": "Start in a plank position with arms straight." },
-        { "id": "2", "description": "Lower your chest to the floor by bending elbows." },
-        { "id": "3", "description": "Push back up to starting position." }
-      ],
-      "gifurl": "https://www.inspireusafoundation.org/file/2022/11/push-up.gif",
-      "useful_muscle": "Chest, Triceps, Shoulders",
-      "gender_type": "male",
-      "remark": "Classic bodyweight exercise.",
-      "current_page_link": "https://example.com/exercises/pushups"
-    }, "numberoftime_to_do": 21 },
-        { "id": "2", "excercise_model":    {
-      "id": "1",
-      "name": "Push Ups",
-      "instruction": [
-        { "id": "1", "description": "Start in a plank position with arms straight." },
-        { "id": "2", "description": "Lower your chest to the floor by bending elbows." },
-        { "id": "3", "description": "Push back up to starting position." }
-      ],
-      "gifurl": "https://www.inspireusafoundation.org/file/2022/11/push-up.gif",
-      "useful_muscle": "Chest, Triceps, Shoulders",
-      "gender_type": "male",
-      "remark": "Classic bodyweight exercise.",
-      "current_page_link": "https://example.com/exercises/pushups"
-    }, "numberoftime_to_do": 30 }
+        {
+          "id": "1",
+          "excercise_model": {
+            "id": "1",
+            "name": "Push Ups",
+            "instruction": [
+              { "id": "1", "description": "Start in a plank position with arms straight." },
+              { "id": "2", "description": "Lower your chest to the floor by bending elbows." },
+              { "id": "3", "description": "Push back up to starting position." }
+            ],
+            "gifurl": "https://www.inspireusafoundation.org/file/2022/11/push-up.gif",
+            "useful_muscle": "Chest, Triceps, Shoulders",
+            "gender_type": "male",
+            "remark": "Classic bodyweight exercise.",
+            "current_page_link": "https://example.com/exercises/pushups"
+          },
+          "numberoftime_to_do": 21
+        },
+        {
+          "id": "2",
+          "excercise_model": {
+            "id": "2",
+            "name": "Jumping Jacks",
+            "instruction": [
+              { "id": "1", "description": "Stand upright with your legs together and arms at your sides." },
+              { "id": "2", "description": "Jump while spreading your legs and raising your arms overhead." },
+              { "id": "3", "description": "Return to starting position and repeat." }
+            ],
+            "gifurl": "https://www.inspireusafoundation.org/file/2022/11/jumping-jacks.gif",
+            "useful_muscle": "Full Body",
+            "gender_type": "unisex",
+            "remark": "Great warm-up exercise.",
+            "current_page_link": "https://example.com/exercises/jumpingjacks"
+          },
+          "numberoftime_to_do": 30
+        }
       ],
       "price": 19.99,
       "total_day": 30,
@@ -54,34 +62,42 @@
       "title": "Muscle Gain Program",
       "description": "High protein diet plan with strength training exercises.",
       "exercise": [
-        { "id": "1", "excercise_model":    {
-      "id": "1",
-      "name": "Push Ups",
-      "instruction": [
-        { "id": "1", "description": "Start in a plank position with arms straight." },
-        { "id": "2", "description": "Lower your chest to the floor by bending elbows." },
-        { "id": "3", "description": "Push back up to starting position." }
-      ],
-      "gifurl": "https://www.inspireusafoundation.org/file/2022/11/push-up.gif",
-      "useful_muscle": "Chest, Triceps, Shoulders",
-      "gender_type": "male",
-      "remark": "Classic bodyweight exercise.",
-      "current_page_link": "https://example.com/exercises/pushups"
-    }, "numberoftime_to_do": 12 },
-        { "id": "2", "excercise_model":    {
-      "id": "1",
-      "name": "Push Ups",
-      "instruction": [
-        { "id": "1", "description": "Start in a plank position with arms straight." },
-        { "id": "2", "description": "Lower your chest to the floor by bending elbows." },
-        { "id": "3", "description": "Push back up to starting position." }
-      ],
-      "gifurl": "https://www.inspireusafoundation.org/file/2022/11/push-up.gif",
-      "useful_muscle": "Chest, Triceps, Shoulders",
-      "gender_type": "male",
-      "remark": "Classic bodyweight exercise.",
-      "current_page_link": "https://example.com/exercises/pushups"
-    }, "numberoftime_to_do": 15 }
+        {
+          "id": "1",
+          "excercise_model": {
+            "id": "3",
+            "name": "Bench Press",
+            "instruction": [
+              { "id": "1", "description": "Lie on a bench with feet flat on the ground." },
+              { "id": "2", "description": "Grip the barbell and lower it to your chest." },
+              { "id": "3", "description": "Push the bar back up until arms are straight." }
+            ],
+            "gifurl": "https://example.com/exercises/benchpress.gif",
+            "useful_muscle": "Chest, Triceps, Shoulders",
+            "gender_type": "male",
+            "remark": "Compound strength exercise.",
+            "current_page_link": "https://example.com/exercises/benchpress"
+          },
+          "numberoftime_to_do": 12
+        },
+        {
+          "id": "2",
+          "excercise_model": {
+            "id": "4",
+            "name": "Squats",
+            "instruction": [
+              { "id": "1", "description": "Stand with feet shoulder-width apart." },
+              { "id": "2", "description": "Lower your hips down and back as if sitting in a chair." },
+              { "id": "3", "description": "Return to standing position." }
+            ],
+            "gifurl": "https://example.com/exercises/squats.gif",
+            "useful_muscle": "Legs, Glutes, Core",
+            "gender_type": "unisex",
+            "remark": "Fundamental lower body exercise.",
+            "current_page_link": "https://example.com/exercises/squats"
+          },
+          "numberoftime_to_do": 15
+        }
       ],
       "price": 29.99,
       "total_day": 45,
@@ -97,8 +113,7 @@
       "total_steps": 10000,
       "caloires_burn": 500,
       "author_name": "Emily Johnson"
-    },
-    
+    }
   ],
-  "next_page": "https://api.example.com/diet-plans?pag"
+  "next_page": "https://api.example.com/diet-plans?page=2"
 }
