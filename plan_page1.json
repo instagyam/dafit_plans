@@ -116,5 +116,5 @@
       "author_name": "David Wilson"
     }
   ],
-  "next_page": "https://api.example.com/diet-plans?page=2"
+  "next_page": "https://api.example.com/diet-plans?pag"
 }
