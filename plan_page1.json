@@ -4,7 +4,7 @@
       "id": "1",
       "title": "Beginner Fat Loss Plan",
       "description": "A simple fat loss diet plan with light exercises and balanced meals.",
-      "features_avaiable":["Food plan","Proper Exercise","Walking guide","Notify on time","Premiun care","Doctor recommented"]
+      "features_avaiable":["Food plan","Proper Exercise","Walking guide","Notify on time","Premiun care","Doctor recommented"],
 "offer_price":10,
 "sleep_hours":"6 hours",
 "target_gender":"uni sex",
@@ -65,7 +65,7 @@
       "id": "2",
       "title": "Muscle Gain Program",
       "description": "High protein diet plan with strength training exercises.",
-      "features_avaiable":["Food plan","Proper Exercise","Walking guide","Notify on time","Premiun care","Doctor recommented"]
+      "features_avaiable":["Food plan","Proper Exercise","Walking guide","Notify on time","Premiun care","Doctor recommented"],
 "offer_price":10,
 "sleep_hours":"6 hours",
 "target_gender":"uni sex",
