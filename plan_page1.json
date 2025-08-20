@@ -8,6 +8,7 @@
       "offer_price":10,
       "sleep_hours":"6 hours",
       "target_gender":"uni sex",
+      "age_category":"23-27",
       "exercise": [
         {
           "id": "1",
@@ -68,7 +69,8 @@
       "features_avaiable":["Food plan","Proper Exercise","Walking guide","Notify on time","Premiun care","Doctor recommented"],
       "offer_price":10,
       "sleep_hours":"6 hours",
-      "target_gender":"uni sex",
+      "target_gender":"Male",
+      "age_category":"23-27",
       "exercise": [
         {
           "id": "1",
