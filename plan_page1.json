@@ -58,7 +58,7 @@
         { "id": "2", "water_liter": 0.5, "time": "12:00 PM" }
       ],
       "rating": 4.5,
-      "total_steps": 8000,
+      "total_steps": 10,
       "caloires_burn": 350,
       "author_name": "John Smith"
     },
@@ -120,7 +120,7 @@
         { "id": "2", "water_liter": 1.0, "time": "3:00 PM" }
       ],
       "rating": 4.8,
-      "total_steps": 10000,
+      "total_steps": 4,
       "caloires_burn": 500,
       "author_name": "Emily Johnson"
     }
